@@ -1,0 +1,7 @@
+﻿  array.c
+D:\Data\Code\WorkSpace\C\c_study\array.c(16,9): warning C4101: “arrayB”: 未引用的局部变量
+D:\Data\Code\WorkSpace\C\c_study\array.c(15,6): warning C4101: “arrayA”: 未引用的局部变量
+  loop.c
+  正在生成代码...
+D:\Data\Code\WorkSpace\C\c_study\loop.c(16): warning C4716: “lopp_main”: 必须返回一个值
+  c_study.vcxproj -> D:\Data\Code\WorkSpace\C\c_study\Debug\c_study.exe
