@@ -140,13 +140,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="array.c" />
+    <ClCompile Include="bitFileds.c" />
     <ClCompile Include="constant.c" />
     <ClCompile Include="decision.c" />
     <ClCompile Include="demo.c" />
     <ClCompile Include="enums.c" />
+    <ClCompile Include="file.c" />
+    <ClCompile Include="io.c" />
     <ClCompile Include="loop.c" />
     <ClCompile Include="operators.c" />
+    <ClCompile Include="pointers.c" />
+    <ClCompile Include="preprocessors.c" />
     <ClCompile Include="storage.c" />
+    <ClCompile Include="string.c" />
+    <ClCompile Include="structures.c" />
+    <ClCompile Include="typeDefs.c" />
+    <ClCompile Include="unions.c" />
     <ClCompile Include="variables.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

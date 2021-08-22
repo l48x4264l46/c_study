@@ -40,6 +40,33 @@
     <Filter Include="源文件\enum">
       <UniqueIdentifier>{c5ab94cf-43af-4311-bfe2-3b2dca44c01b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\pointer">
+      <UniqueIdentifier>{80fe5b05-f788-450b-a942-efa391f419b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\string">
+      <UniqueIdentifier>{03a2301c-9f14-4a05-8906-241b1e1e1e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\structure">
+      <UniqueIdentifier>{b3853023-303d-41fb-a0b8-10c0e42ce9c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\union">
+      <UniqueIdentifier>{056232e1-d4e5-4352-8c5d-f98d44e74038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\bitField">
+      <UniqueIdentifier>{5b159cf6-8a80-4860-ab57-561083d62223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\typedef">
+      <UniqueIdentifier>{c3fd102e-d056-46ef-aad3-7407470977ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\io">
+      <UniqueIdentifier>{6b740588-5d7d-441d-9a8e-14c8dab80288}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\file">
+      <UniqueIdentifier>{6b52a5d6-e471-4203-9173-5cb361c380db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\preprocessor">
+      <UniqueIdentifier>{1805a773-975e-471a-8ebe-76b4f6874d8f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="demo.c">
@@ -68,6 +95,33 @@
     </ClCompile>
     <ClCompile Include="enums.c">
       <Filter>源文件\enum</Filter>
+    </ClCompile>
+    <ClCompile Include="pointers.c">
+      <Filter>源文件\pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="string.c">
+      <Filter>源文件\string</Filter>
+    </ClCompile>
+    <ClCompile Include="structures.c">
+      <Filter>源文件\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="unions.c">
+      <Filter>源文件\union</Filter>
+    </ClCompile>
+    <ClCompile Include="bitFileds.c">
+      <Filter>源文件\bitField</Filter>
+    </ClCompile>
+    <ClCompile Include="typeDefs.c">
+      <Filter>源文件\typedef</Filter>
+    </ClCompile>
+    <ClCompile Include="io.c">
+      <Filter>源文件\io</Filter>
+    </ClCompile>
+    <ClCompile Include="file.c">
+      <Filter>源文件\file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessors.c">
+      <Filter>源文件\preprocessor</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

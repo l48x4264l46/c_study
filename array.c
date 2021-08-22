@@ -4,7 +4,7 @@
 /**Êý×é²Ù×÷*/
 void arrayOpt(void);
 
-int main()
+int array_main()
 {
 	arrayOpt();
 }
