@@ -1,1 +1,2 @@
 D:\Data\Code\WorkSpace\C\c_study\Debug\c_study.exe
+D:\WorkSpace\own\c\c_study\Debug\c_study.exe

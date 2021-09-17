@@ -1,2 +1,8 @@
-﻿  file.c
-  c_study.vcxproj -> D:\Data\Code\WorkSpace\C\c_study\Debug\c_study.exe
+﻿  memory.c
+D:\WorkSpace\own\c\c_study\memory.c(23,29): warning C4047: “=”:“NodeData”与“char *”的间接级别不同
+  recursion.c
+  varParam.c
+  正在生成代码...
+D:\WorkSpace\own\c\c_study\varParam.c(20): warning C4716: “avg”: 必须返回一个值
+D:\WorkSpace\own\c\c_study\recursion.c(8): warning C4716: “re_main”: 必须返回一个值
+  c_study.vcxproj -> D:\WorkSpace\own\c\c_study\Debug\c_study.exe
